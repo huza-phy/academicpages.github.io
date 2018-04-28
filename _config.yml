@@ -82,7 +82,7 @@ author:
   avatar           : "profile.png"
   bio              : "Undergraduate student at Zhejiang University"
   location         : "Hangzhou, China"
-  employer         : "Physics Department of Zhejiang University"
+  employer         : 
   googlescholar    : 
   email            : "huza@zju.edu.cn"
   uri              :
@@ -106,7 +106,7 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  weibo            :
+  zhihu            : "https://www.zhihu.com/people/hu-zi-ang-64/activities"
   xing             :
   youtube          :
   wikipedia        :
